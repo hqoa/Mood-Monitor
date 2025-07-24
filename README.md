@@ -36,7 +36,7 @@ The steps include:
 
 4. Run the script:
     ```bash
-    python3 my-recognition.py picture.jpg --model=model.onnx --labels=labels.txt
+    python3 my-recognition.py images/picture.jpg --model=models/model.onnx --labels=models/labels.txt
     ```
 
 5. Check the `results/` folder for output image with text overlay.
