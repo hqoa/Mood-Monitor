@@ -3,6 +3,7 @@
 A Jetson Nano-based emotion recognition system that detects human facial emotions from images and offers personalized mental wellness advice. The model uses a custom-trained neural network to classify expressions like happy, sad, angry, fear, etc., and overlays relevant advice on the image automatically.
 
 Mood Monitor Output Sample: (`https://drive.google.com/file/d/1bW4BgVj1Dd19Omwaj4C0nDDlRPXVpRnF/view?usp=sharing`)
+Mood Monitor Video Sample: (`https://drive.google.com/file/d/1bYCSbjeKI8o1lojON-8qMPZhsDW3W3iP/view?usp=sharing`)
 
 
 => **The Algorithm**
@@ -48,3 +49,5 @@ Install the required Jetson utilities (already pre-installed on JetPack environm
 ```bash
 sudo apt-get install python3-pip
 pip3 install jetson-inference jetson-utils
+
+
