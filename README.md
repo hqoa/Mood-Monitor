@@ -29,7 +29,7 @@ The steps include:
     git clone https://github.com/hqoa/Mood-Monitor.git
     cd Mood-Monitor
     ```
-2. Import an image of your liking to the images folder and name it `picture.jpg`.
+2. Import an image of your liking to the images folder and name it `picture.jpg`, make sure it is just the **face** of the person.
 
 3. Make sure you have these files:
    - `labels.txt` file in the `models` folder with one emotion label per line in the.
